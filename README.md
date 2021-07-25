@@ -14,6 +14,7 @@ Tool | Language | Description
 [Merlin](https://github.com/Ne0nd0g/merlin) | GO | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 [Kubesploit](https://github.com/cyberark/kubesploit) | GO | Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
 [Javascript-Obfuscator](https://github.com/cipheras/javascript-obfuscator) |  JS | A powerful obfuscator for JavaScript and Node.js 
+[JObfuscator](https://github.com/PELock/JObfuscator-Python) |  Java | Java source code obfuscator. 
 
 <!-- </details> -->
 <br>
